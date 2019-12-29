@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9433d660-2698-4b29-b5de-db95a8b19aba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BookDetails.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BookDetails.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/BookList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BookList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,12 +27,6 @@
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
       </list>
     </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="191" />
-    <option name="y" value="-20" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
   </component>
   <component name="ProjectId" id="1VepwLZwRMDXg3Bf0ejrb0J9rKQ" />
   <component name="ProjectLevelVcsManager">
@@ -69,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1577409572710</updated>
       <workItem from="1577409573840" duration="2517000" />
-      <workItem from="1577623694845" duration="2344000" />
+      <workItem from="1577623694845" duration="5743000" />
     </task>
     <servers />
   </component>
