@@ -4,8 +4,7 @@
     <list default="true" id="9433d660-2698-4b29-b5de-db95a8b19aba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookDetails.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BookDetails.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BookList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BookList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BookForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BookForm.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1577409572710</updated>
       <workItem from="1577409573840" duration="2517000" />
-      <workItem from="1577623694845" duration="5743000" />
+      <workItem from="1577623694845" duration="6712000" />
+      <workItem from="1578428355771" duration="5190000" />
     </task>
     <servers />
   </component>
@@ -77,7 +77,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
